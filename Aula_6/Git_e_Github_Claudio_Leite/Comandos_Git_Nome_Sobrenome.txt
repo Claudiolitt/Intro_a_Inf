@@ -1,0 +1,140 @@
+    1  pwd
+    2  mkdir DH
+    3  pwd
+    4  cd DH
+    5  mkdir integracao_aula_1e2
+    6  cd integracao_aula_1e2
+    7  mkdir historia_da_contabilidade
+    8  mkdir servidores
+    9  mkdir interfaces_de_usuario
+   10  mkdir o_que_faremos_hoje
+   11  mkdir infraestrutura
+   12  ls
+   13  touch historia_da_contabilidade/resumo.txt servidores/resumo.txt interfaces_de_usuario/resumo.txt o_que_faremos_hoje/resumo.txt infraestrutura/resumo.txt
+   14  ls -r
+   15  ls-r
+   16  ls -R
+   17  cd DH
+   18  mkdir Aulas
+   19  cd Claudio_DH
+   20  pwd
+   21  cd Documents
+   22  cd Claudio_DH
+   23  cd Front-End i
+   24  cd Front-End I
+   25  cd "Front-End I"
+   26  git init
+   27  git remote add origin https://github.com/Claudiolitt/Front_End_I.git
+   28  git branch -M main
+   29  git add .
+   30  git add .
+   31  cd Aula_4
+   32  git add .
+   33  git status
+   34  git commit -m "Exercício Aula 4"
+   35  git push -u origin main
+   36  cd ..
+   37  git pull origin main
+   38  cd Aula_4
+   39  git add .
+   40  git commit -m "Tarefa Aula 4"
+   41  git push -u origin main
+   42  git pull origin main
+   43  git add .
+   44  git commit -m "Aula 4 Exercícios"
+   45  git push -u origin main
+   46  git reset
+   47  git reset --mixed #Tareafa Aula 4
+   48  git stash
+   49  git revert #Aula 4 Exercícios
+   50  cd ..
+   51  git init
+   52  git reset
+   53  git clean
+   54  rm -rf .git
+   55  git remote add https://github.com/Claudiolitt/Front_End_I.git
+   56  git remote add INGW64 ~/Documents/Claudio_DH/Front-End I
+   57  $ git remote add origin https://github.com/Claudiolitt/Front_End_I.git
+   58  git remote add https://github.com/Claudiolitt/Front_End_I.git
+   59  pwd
+   60  git init
+   61  git add .
+   62  cd AUla_3
+   63  rm -rf .git
+   64  cd ..
+   65  rm -rf .git
+   66  git checkout
+   67  pwd
+   68  cd Documents
+   69  cd Claudio_DH
+   70  CD "Front-End I"
+   71  cd "Front-End I"
+   72  cd Aula_3
+   73  cd ..
+   74  cd Aula_5
+   75  rm -rf .git
+   76  rm -rf .git
+   77  ls
+   78  cd ..
+   79  ls
+   80  ls -n
+   81  ls -r
+   82  ls -a
+   83  cd AUla_3
+   84  cd ..
+   85  cd Aula_¨6
+   86  cd Aula_6
+   87  cd ..
+   88  git init
+   89  git branch -m main
+   90  git remote add origin https://github.com/Claudiolitt/Front_End_I.git
+   91  git pull origin main 
+   92  git add .
+   93  git status
+   94  git reset
+   95  git status
+   96  ls -r
+   97  ls -a
+   98  cd Aula_3
+   99  ls
+  100  cd ..
+  101  git status
+  102  git add Aula_6
+  103  git status
+  104  git commit -m "Adicionando Exercício Aula 6"
+  105  git push origin main
+  106  git status
+  107  git add Aula_3
+  108  git status
+  109  git commit -m "Adicionando Exercício Aula_3"
+  110  git push main origin
+  111  git push origin main
+  112  git status
+  113  git add Aula_5
+  114  git commit -m "Adicionando Exercício Aula 5"
+  115  git push origin main
+  116  pwd
+  117  cd ..
+  118  ls
+  119  cd Int_a_inf
+  120  rm -rf .git
+  121  ls
+  122  cd ..
+  123  cd Int_a_inf
+  124  git init
+  125  git branch -m Claudio_Leite
+  126  git remote add origin 
+  127  https://github.com/Claudiolitt/Intro_a_Inf.git
+  128  git remote add origin https://github.com/Claudiolitt/Intro_a_Inf.git
+  129  git status
+  130  mkdir AUla_6
+  131  cd Aula_6
+  132  mkdir Git_e_Github_Claudio_Leite
+  133  cd ..
+  134  git pull origin main
+  135  mv AUla_6 Aula_¨6
+  136  mv Aula_¨6 Aula_6
+  137  cd Aula_6
+  138  cd Git_e_Github_Claudio_Leite
+  139  history
+  140  history >> Comandos_Git_Nome_Sobrenome.txt
